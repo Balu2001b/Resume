@@ -1,0 +1,146 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', 'Lato', 'Open Sans', 'Calibri', sans-serif;
+
+}
+
+.container{
+
+    border: 1px solid black;
+    height: 297mm;
+    width: 210mm;
+    margin: auto;
+
+}
+
+.container header{
+
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+.container header h1{
+
+    color: #082567;
+    letter-spacing: 2px;
+}
+
+.container header p{
+
+    font-size: 12px;
+}
+
+.container header p a{
+
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 12px;
+
+}
+
+.education ul {
+
+    list-style-type: none;
+    margin: 15px 40px 10px 50px;
+}
+
+.education h3{
+
+    margin: 40px 40px 10px 50px;
+    border-bottom: 2px solid black;
+    color: #082567;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.education ul li{
+
+    font-size: 14px;
+}
+
+.education ul li p .year{
+
+    margin-left: 390px;
+}
+
+.education ul li p .year1{
+
+    margin-left: 365px;
+}
+
+.education ul li p .year2{
+
+    margin-left: 410px;
+}
+
+
+.education ul li p{
+
+    font-size: 14px;
+    font-weight: bold;
+    color: #082567;
+}
+
+
+.skills h3{
+
+    margin: 20px 40px 10px 50px;
+    border-bottom: 2px solid black;
+    color: #082567;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.skills ul li{
+
+    list-style-type: none;
+    margin: 0px 40px 5px 50px;
+    font-size: 14px;
+}
+
+.projects h3{
+
+    margin: 20px 40px 10px 50px;
+    border-bottom: 2px solid black;
+    color: #082567;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.projects ul{
+
+    list-style-type: none;
+    margin: 0px 40px 10px 0px;
+}
+
+.projects ul p{
+
+    margin: 0px 40px 5px 50px;
+}
+
+.projects ul li{
+
+    margin-left: 80px;
+    font-size: 14px;
+}
+
+
+.certifications h3{
+
+    margin: 20px 40px 10px 50px;
+    border-bottom: 2px solid black;
+    color: #082567;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.certifications ul li{
+
+    list-style-type: none;
+    margin: 0px 40px 5px 50px;
+    font-size: 14px;
+}
